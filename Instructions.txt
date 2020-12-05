@@ -1,0 +1,13 @@
+1. Go to iattendedapp.com in a browser
+2. Log in and go to "Enter Code"
+3. Open Brute folder in file explorer
+4. Have both windows side by side
+5. Double click Brute and immediately click in the input bar
+6. You will have 3 seconds to click in the input
+7. When done click the 'x' on the command prompt that opens
+
+Note:
+It may occasionally mess up and have too many letters,
+just close it and start it again.
+
+Also, so far I believe it only works on windows.
