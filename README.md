@@ -25,3 +25,4 @@ In the future Brute will support:
   - A GUI to select options
   - Brute force entry on a username and password combination
   
+I am not responsible if you decide to use Brute irresponsibly.
